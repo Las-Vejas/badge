@@ -21,7 +21,9 @@
 
 ## Overview
 
-VejasBadge is a compact wearable badge built around the Raspberry Pi **RP2040** microcontroller. It features an **E-ink display**, **NFC** via the ST25DV04K, and is powered over **USB-C** with battery charging support.
+VejasBadge is a compact wearable badge built around the Raspberry Pi **RP2040** microcontroller. It features an **E-ink display**, **NFC** via the ST25DV04K, and is powered over **USB-C** with battery charging support. 
+
+It will be used to display info like my name, website and a photo of some sort. If the NFC coil works, I will add functionality, to choose the info transmitted by the NFC tag so you could share multiple website links. I would also like to use it as an ebook reader, but there may not be enough storage for that.
 
 ## Features
 
